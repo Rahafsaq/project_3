@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261464207804",
+    "project_id": "project-3-rahaf",
+    "storage_bucket": "project-3-rahaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261464207804:android:9ba661ed25823e2ba33bb9",
+        "android_client_info": {
+          "package_name": "com.example.project_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261464207804-00qmo9jbdtaoolj21b4av98h39fjmspe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGC28lb4WtcqzCstm1wFYowxsz61LzfSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261464207804-00qmo9jbdtaoolj21b4av98h39fjmspe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
